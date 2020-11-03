@@ -1,0 +1,91 @@
+html{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  }
+h1{
+  text-align: left;
+  font-style: inherit;
+  margin-left: 50px;
+  color: #15436e;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('bg.jpg');
+  display: block;
+  background-size: cover;
+}
+
+.menu ul{
+  list-style:none;
+  cursor: none;
+  float: right;
+  margin-right: 140px;
+  color:#08596A;
+
+}
+
+.menu ul li{
+  list-style: none;
+  display: inline-block;
+  color:#08596A;
+  font-family: 'Raleway', sans-serif;
+  padding: 15px;
+  font-weight: 400;
+}
+
+.lokasi ul li{
+  list-style: none; 
+}
+
+.lokasi{
+  margin-left: 50px;
+  font-size: 120%;
+  color: rgb(27, 56, 136);
+  position: relative;
+  margin-top: 120px;
+}
+
+
+h3{
+  
+  font-size: 120%;
+  color: #06559e;
+  margin-left: 46px;
+  padding: 0px 50px;
+  font-family:'Raleway', sans-serif ;
+}
+img{
+  margin-left: 50%;
+  position: absolute;
+}
+.table{
+  margin-top: 170px;
+  margin-bottom: 50px;
+}
+
+p{
+  font-size: 25px;
+}
+
+.menu{
+  position: absolute;
+  top: 0;
+  left:  0;
+  margin: 0;
+  padding: 0;
+  height: 80px;
+  width: 100%;
+  float: right;
+  
+}
+
+.menu ul li a{
+  text-decoration: none;
+  font-weight: bold;
+
+}
